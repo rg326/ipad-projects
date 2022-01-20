@@ -64,14 +64,14 @@
 // Setting up the the race 🏎 🏎 🏎
 
 
-function countDown(){
-  console.log(5)
-  console.log(4)
-  console.log(3)
-  console.log(2)
-  console.log(1)
-}
-countDown()
+//function countDown(){
+//  console.log(5)
+//  console.log(4)
+//  console.log(3)
+//  console.log(2)
+//  console.log(1)
+//}
+//countDown()
 
 
 
@@ -81,7 +81,48 @@ countDown()
 
 // Get ready for a new race 🏎 🏎 🏎
 
-countDown()
+//countDown()
 
 
 //==============
+
+// function numCall(){
+//   console.log(42)
+// }
+
+// numCall()
+
+// let lap1 = 34
+// let lap2 = 33
+// let lap3 = 36
+
+// function lapLogger(){
+//   lapSum = lap1 + lap2 + lap3
+//   console.log(lapSum)
+// }
+
+//console.log(lapSum)
+
+// lapLogger()
+
+// let lapsCompleted = 0
+
+// function lapCount(){
+//   return lapsCompleted++;
+// }
+
+// lapCount()
+// lapCount()
+// lapCount()
+
+// console.log(lapsCompleted)
+
+let count = 0
+
+let numCount = document.getElementById('count-el')
+let increment = document.getElementById('increment-btn')
+
+increment.addEventListener('click',()=>{
+  console.log('button clicked')
+  numCount.innerText = count++;
+})

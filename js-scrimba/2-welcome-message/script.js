@@ -3,7 +3,6 @@ let myName = 'Lauren'
 let greeting = 'Hello there, '
 
 welcomeMsg.innerText = (`${greeting}${myName}`)
-
 console.log(welcomeMsg)
 
 //add an emoji to the end!

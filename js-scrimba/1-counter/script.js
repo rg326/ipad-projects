@@ -119,11 +119,29 @@
 
 let numCount = document.getElementById('count-el')
 let increment = document.getElementById('increment-btn')
+let saveBtn = document.getElementById('save-btn')
 let count = 0
 
-increment.addEventListener('click',()=>{
+/*increment.addEventListener('click', () =>{
   console.log('button clicked')
   numCount.innerText = count++;
-})
+})*/
 
 console.log(numCount)
+
+//increment.addEventListener('click',clicker)
+
+/*const clicker = ()=>{
+  numCount.innertext = count++;
+}*/
+
+//Create a save variable that logs out count
+
+const save = ()=>{
+  console.log(count)
+}
+
+//Create a variable that stores the string: 'You have three new notifications'
+
+let message = 'You have three new notifications'
+console.log(message)

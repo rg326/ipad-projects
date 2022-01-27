@@ -125,3 +125,5 @@ increment.addEventListener('click',()=>{
   console.log('button clicked')
   numCount.innerText = count++;
 })
+
+console.log(numCount)

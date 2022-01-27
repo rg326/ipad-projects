@@ -127,8 +127,6 @@ let count = 0
   numCount.innerText = count++;
 })*/
 
-console.log(numCount)
-
 //increment.addEventListener('click',clicker)
 
 /*const clicker = ()=>{
@@ -141,7 +139,9 @@ const save = ()=>{
   console.log(count)
 }
 
+let username = 'Lauren'
+
 //Create a variable that stores the string: 'You have three new notifications'
 
 let message = 'You have three new notifications'
-console.log(message)
+console.log(`${message}, ${username}!`)

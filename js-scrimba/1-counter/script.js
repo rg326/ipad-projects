@@ -117,10 +117,9 @@
 
 // console.log(lapsCompleted)
 
-let count = 0
-
 let numCount = document.getElementById('count-el')
 let increment = document.getElementById('increment-btn')
+let count = 0
 
 increment.addEventListener('click',()=>{
   console.log('button clicked')

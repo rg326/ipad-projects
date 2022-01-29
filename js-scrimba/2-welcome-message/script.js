@@ -12,3 +12,4 @@ console.log(welcomeMsg)
 //welcomeMsg.innerText = welcomeMsg.innerText + "👋"
 
 welcomeMsg.innerText += "👋"
+//concat emoji

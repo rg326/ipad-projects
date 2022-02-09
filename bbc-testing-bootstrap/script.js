@@ -1,5 +1,5 @@
 function doubleMe(x){
-    alert(4)
+    alert( x * 2)
 }
 
 doubleMe(10)

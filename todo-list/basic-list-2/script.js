@@ -61,9 +61,11 @@ window.addEventListener('load',()=>{
 		}
 		})
 		
+		//DELETE
 		seriesDelete.addEventListener('click', ()=>{
 			seriesList.removeChild(seriesItem)
 			
 		})
 	})
 })
+

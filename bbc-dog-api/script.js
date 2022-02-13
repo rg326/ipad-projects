@@ -62,7 +62,7 @@ const loadByBreed = async (breed) => {
 const createSlideShow = (images) => {
 	let CurrPos = 0
 	clearInterval(timer)
-	clearTimeout((deleteFirstPhotoDelay)
+	clearTimeout(deleteFirstPhotoDelay)
 	
 	if(images.length > 1){
 		document.getElementById('slideshow')
@@ -83,7 +83,7 @@ const createSlideShow = (images) => {
 	`
 	}
 	
-}
+
 	
 	function nextSlide() {
 		document.getElementById('slideshow')

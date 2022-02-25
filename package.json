@@ -1,0 +1,20 @@
+{
+  "name": "ipad-projects",
+  "version": "1.0.0",
+  "description": "Coding done on my ipad apps, like playjs, pythonista and textastic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rg326/ipad-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rg326/ipad-projects/issues"
+  },
+  "homepage": "https://github.com/rg326/ipad-projects#readme"
+}

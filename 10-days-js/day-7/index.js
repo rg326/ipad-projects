@@ -34,6 +34,7 @@ function nameOnly(x){
 //console.log(ourTest)
 
 let dogs = pets.filter(onlyDogs)
+//returns a boolean
 
 function onlyDogs(x) {
     return x.species == 'dog'

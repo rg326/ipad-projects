@@ -83,7 +83,34 @@ cardDeck = {
 			}
 
         }
+	two: {
+        hearts:{
+            name: 'Two of Hearts',
+            value: 2,
+            img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
+			//'U+1F0B1 🂱'
+		}
+		diamond:{
+            name: 'Two of Diamonds',
+            value: 2,
+            img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
+			//'U+1F0B1 🂱'
+		}
+		club:{
+            name: 'Two of Clubs',
+            value: 2,
+            img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
+			//'U+1F0B1 🂱'
+		}
+		spade:{
+            name: 'Two of Spades',
+            value: 2,
+            img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
+			//'U+1F0B1 🂱'
+		}
+
     }
+  }
 }
 
 /*

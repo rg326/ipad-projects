@@ -56,12 +56,31 @@
 }*/
 
 cardDeck = {
-    hearts: {
-            aoH:{
+    ace: {
+            hearts:{
                 name: 'A of Hearts',
                 value: 1,
                 img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
 				//'U+1F0B1 🂱'
+			}
+			diamond:{
+                name: 'A of Diamonds',
+                value: 1,
+                img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
+				//'U+1F0B1 🂱'
+			}
+			club:{
+                name: 'A of Clubs',
+                value: 1,
+                img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
+				//'U+1F0B1 🂱'
+			}
+			spade:{
+                name: 'A of Spades',
+                value: 1,
+                img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
+				//'U+1F0B1 🂱'
+			}
 
         }
     }

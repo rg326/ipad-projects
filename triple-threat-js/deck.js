@@ -137,7 +137,32 @@ cardDeck = {
 			//'U+1F0B1 🂱'
 		}
 		
-	}
+	},
+
+	four: {
+            name: 'Four of Hearts',
+            value: 4,
+            img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
+			//'U+1F0B1 🂱'
+		},
+		diamond:{
+            name: 'Four of Diamonds',
+            value: 4,
+            img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
+			//'U+1F0B1 🂱'
+		},
+		club:{
+            name: 'Four of Clubs',
+            value: 4,
+            img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
+			//'U+1F0B1 🂱'
+		},
+		spade:{
+            name: 'Four of Spades',
+            value: 4,
+            img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
+			//'U+1F0B1 🂱'
+		}
   
 }
 

@@ -62,19 +62,19 @@ cardDeck = {
                 value: 1,
                 img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
 				//'U+1F0B1 🂱'
-			}
+			},
 			diamond:{
                 name: 'A of Diamonds',
                 value: 1,
                 img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
 				//'U+1F0B1 🂱'
-			}
+			},
 			club:{
                 name: 'A of Clubs',
                 value: 1,
                 img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
 				//'U+1F0B1 🂱'
-			}
+			},
 			spade:{
                 name: 'A of Spades',
                 value: 1,
@@ -82,26 +82,26 @@ cardDeck = {
 				//'U+1F0B1 🂱'
 			}
 
-        }
+        },
 	two: {
         hearts:{
             name: 'Two of Hearts',
             value: 2,
             img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
 			//'U+1F0B1 🂱'
-		}
+		},
 		diamond:{
             name: 'Two of Diamonds',
             value: 2,
             img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
 			//'U+1F0B1 🂱'
-		}
+		},
 		club:{
             name: 'Two of Clubs',
             value: 2,
             img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
 			//'U+1F0B1 🂱'
-		}
+		},
 		spade:{
             name: 'Two of Spades',
             value: 2,
@@ -109,8 +109,36 @@ cardDeck = {
 			//'U+1F0B1 🂱'
 		}
 
-    }
-  }
+    },
+
+	three: {
+		hearts:{
+            name: 'Three of Hearts',
+            value: 3,
+            img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
+			//'U+1F0B1 🂱'
+		},
+		diamond:{
+            name: 'Three of Diamonds',
+            value: 3,
+            img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
+			//'U+1F0B1 🂱'
+		},
+		club:{
+            name: 'Three of Clubs',
+            value: 3,
+            img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
+			//'U+1F0B1 🂱'
+		},
+		spade:{
+            name: 'Three of Spades',
+            value: 3,
+            img: 'http://clipart-library.com/new_gallery/939134_ace-of-hearts-png.png'
+			//'U+1F0B1 🂱'
+		}
+		
+	}
+  
 }
 
 /*
